@@ -87,8 +87,7 @@ ___
 ___
 ***
 # Экзаменационный билет №14
-<https://github.com/TimGvr/Internet_Technologies/wiki/exam14>[ссылка]
-
-
+Ответ на экзаменационный билет можно увидеть здесь:
+[Билет № 14](https://github.com/TimGvr/Internet_Technologies/wiki/exam14)
 ___
 
