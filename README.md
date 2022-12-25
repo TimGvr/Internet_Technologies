@@ -88,6 +88,6 @@ ___
 ***
 # Экзаменационный билет №14
 Ответ на экзаменационный билет можно увидеть здесь:
-[Билет № 14](https://github.com/TimGvr/Internet_Technologies/wiki/exam14)
+[Билет № 14](https://github.com/stankin/inet-2022/wiki/exam14/)
 ___
 
