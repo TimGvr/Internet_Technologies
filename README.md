@@ -84,6 +84,9 @@ ___
 * [Акт сдачи-приемки программного продукта](https://github.com/kxenki/IT_Project/blob/main/documents/%D0%90%D0%BA%D1%82%20%D1%81%D0%B4%D0%B0%D1%87%D0%B8-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B0.pdf)
 
 # Лабораторная работа №3
+Ранее был пройден курс по основам сетевых технологий. Отчет был оформлен в виде архива, содержащего скриншоты настройки оборудования.
+
+Архив доступен по [ссылке](https://drive.google.com/drive/folders/1FvfVM7ra4QLX3W2x_TZuJ_j_YuS9TL6t?usp=share_link)
 ___
 ***
 # Экзаменационный билет №14
